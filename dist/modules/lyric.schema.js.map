@@ -1,0 +1,1 @@
+{"version":3,"file":"lyric.schema.js","sourceRoot":"","sources":["../../src/modules/lyric.schema.ts"],"names":[],"mappings":";;;;;;AAAA,wDAAgC;AAChC,MAAM,EAAE,MAAM,EAAE,GAAG,kBAAQ,CAAC;AAEf,QAAA,WAAW,GAAG,IAAI,MAAM,CAAC;IAClC,KAAK,EAAE,MAAM;IACb,MAAM,EAAE,MAAM;IACd,MAAM,EAAE,MAAM;IACd,KAAK,EAAE,MAAM;IACb,QAAQ,EAAE,MAAM;IAChB,KAAK,EAAE,MAAM;CAChB,CAAC,CAAC"}

@@ -1,0 +1,40 @@
+{
+  "name": "log-into-google-with-puppeteer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node ./dist/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cobalt-intelligence/log-into-google-with-puppeteer.git"
+  },
+  "author": "Jordan Hansen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cobalt-intelligence/log-into-google-with-puppeteer/issues"
+  },
+  "homepage": "https://github.com/cobalt-intelligence/log-into-google-with-puppeteer#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "dotenv": "^10.0.0",
+    "fs": "^0.0.1-security",
+    "mongoose": "^6.2.9",
+    "puppeteer": "^12.0.1",
+    "puppeteer-extra": "^3.2.3",
+    "puppeteer-extra-plugin-stealth": "^2.9.0",
+    "regexp.prototype.flags": "^1.4.1",
+    "slugify": "^1.6.5",
+    "sqlite3": "^5.0.2",
+    "xlsx": "^0.18.4"
+  },
+  "devDependencies": {
+    "@types/bluebird": "^3.5.36",
+    "@types/dotenv": "^8.2.0",
+    "@types/node": "^16.11.11",
+    "@types/puppeteer": "^5.4.4",
+    "@types/sqlite3": "^3.1.8",
+    "typescript": "^4.5.2"
+  }
+}
